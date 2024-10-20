@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.1 B. The sum of the numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7278B7A-E578-45E3-87DB-C7D8EFDBDE73}|2.1 B. The sum of the numbers\\2.1 B. The sum of the numbers.vcxproj|C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.1 B. The sum of the numbers\\2.1 B. The sum of the numbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7278B7A-E578-45E3-87DB-C7D8EFDBDE73}|2.1 B. The sum of the numbers\\2.1 B. The sum of the numbers.vcxproj|solutionrelative:2.1 B. The sum of the numbers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.1 B. The sum of the numbers\\2.1 B. The sum of the numbers\\main.cpp",
+              "RelativeDocumentMoniker": "2.1 B. The sum of the numbers\\main.cpp",
+              "ToolTip": "C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.1 B. The sum of the numbers\\2.1 B. The sum of the numbers\\main.cpp",
+              "RelativeToolTip": "2.1 B. The sum of the numbers\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T21:09:33.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
