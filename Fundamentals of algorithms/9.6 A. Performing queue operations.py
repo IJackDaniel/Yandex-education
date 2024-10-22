@@ -48,7 +48,7 @@ class LinkedList:
         return self.head.data
 
     def __str__(self):
-            return str(self.head)
+        return str(self.head)
 
 
 linked_list = LinkedList()
