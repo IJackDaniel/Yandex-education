@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TanKi\\source\\repos\\2.3 B. A right-angled triangle\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 B. A right-angled triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7993F22F-5681-44AB-9D97-7B41DBACC45A}|2.3 B. A right-angled triangle\\2.3 B. A right-angled triangle.vcxproj|C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 B. A right-angled triangle\\2.3 B. A right-angled triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7993F22F-5681-44AB-9D97-7B41DBACC45A}|2.3 B. A right-angled triangle\\2.3 B. A right-angled triangle.vcxproj|solutionrelative:2.3 B. A right-angled triangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 B. A right-angled triangle\\2.3 B. A right-angled triangle\\main.cpp",
+              "RelativeDocumentMoniker": "2.3 B. A right-angled triangle\\main.cpp",
+              "ToolTip": "C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 B. A right-angled triangle\\2.3 B. A right-angled triangle\\main.cpp",
+              "RelativeToolTip": "2.3 B. A right-angled triangle\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T20:49:11.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
