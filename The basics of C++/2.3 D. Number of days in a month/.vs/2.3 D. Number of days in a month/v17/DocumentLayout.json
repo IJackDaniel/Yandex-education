@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TanKi\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 D. Number of days in a month\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\\u0444\u0432\u044C\u0448\u0442\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 D. Number of days in a month\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{725888B3-19DF-4234-9F24-CCB06D878AD5}|2.3 D. Number of days in a month\\2.3 D. Number of days in a month.vcxproj|C:\\Users\\\u0444\u0432\u044C\u0448\u0442\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 D. Number of days in a month\\2.3 D. Number of days in a month\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{725888B3-19DF-4234-9F24-CCB06D878AD5}|2.3 D. Number of days in a month\\2.3 D. Number of days in a month.vcxproj|solutionrelative:2.3 D. Number of days in a month\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0444\u0432\u044C\u0448\u0442\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 D. Number of days in a month\\2.3 D. Number of days in a month\\main.cpp",
+              "RelativeDocumentMoniker": "2.3 D. Number of days in a month\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0444\u0432\u044C\u0448\u0442\\Programming\\Yandex-education\\The basics of C\u002B\u002B\\2.3 D. Number of days in a month\\2.3 D. Number of days in a month\\main.cpp",
+              "RelativeToolTip": "2.3 D. Number of days in a month\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T07:20:04.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
