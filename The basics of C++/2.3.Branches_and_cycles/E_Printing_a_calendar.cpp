@@ -1,38 +1,37 @@
 #include <iostream>
 
-int main() 
+int main()
 {
 	int n, k;
-	std::cin >> n >> k;
-	for (int j = 1; j < n - 1; j++) 
+	std:: cin >> n >> k;
+	int num = -(n - 2);
+	int pos = 1;
+	do
 	{
-		std::cout << "   ";
-		if (j != n - 2) 
+		if (num >= 1)
 		{
-			std::cout << " ";
+			if (num <= 9)
+			{
+				std::cout << ' ' << num;
+			}
+			else
+			{
+				std::cout << num;
+			}
 		}
-	}
-	int day = n;
-	int i = 1;
-	while (i <= k) 
-	{
-		if (i < 10) 
+		else
 		{
-			std::cout << "  " << i;
+			std::cout << "  ";
 		}
-		else 
+		if (pos % 7 == 0)
 		{
-			std::cout << " " << i;
+			std::cout << std::endl;
 		}
-		
-		if (day == 7) 
+		else
 		{
-			std::cout << "\n";
-			day = 1;
-			i++;
-			continue;
+			std::cout << ' ';
 		}
-		i++;
-		day++;
-	}
+		num++;
+		pos++;
+	} while (num <= k);
 }
